@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "recomendaciones": [
+    {
+        "Nombre": "Súper Cumpleaños en Coney Park",
+        "Sede": "Miraflores",
+        "Capacidad Maxima": 80,
+        "Descripción": "Celebra tu cumpleaños de manera espectacular con el paquete Súper Coney. Durante todo el mes de febrero, disfruta de una experiencia inolvidable llena de diversión y sorpresas.",
+        "Paquete Incluye": [
+            "Entrada ilimitada a todas las atracciones del parque",
+            "Fiesta temática con decoración especial",
+            "Shows y animaciones exclusivas",
+            "Regalos y sorpresas para el cumpleañero",
+            "Menú especial de cumpleaños para todos los invitados",
+            "Fotografía grupal conmemorativa"
+        ],
+        "Promoción Especial": "20% de descuento en el paquete Súper Coney durante el mes de febrero",
+        "Reserva": "Proporciona la fecha de tu evento y la cantidad de personas que asistirán para agendar una reserva."
+    },
+    {
+        "Nombre": "Fiestas en Bembos Park",
+        "Sede": "Surquillo",
+        "Capacidad Maxima": 70,
+        "Descripción": "Celebra tu fiesta en Bembos Park y disfruta de la mejor experiencia de diversión y sabor. Bembos, conocida por sus deliciosas hamburguesas, te ofrece un lugar único para que tu celebración sea inolvidable.",
+        "Paquete Incluye": [
+            "Acceso a las instalaciones de Bembos Park con juegos y actividades para todas las edades",
+            "Fiesta temática con decoración colorida y divertida",
+            "Menú especial de hamburguesas Bembos para todos los invitados",
+            "Actividades y entretenimiento exclusivo",
+            "Regalos y sorpresas para el cumpleañero",
+            "Fotografía grupal para recordar el evento"
+        ],
+        "Promoción Especial": "Organiza tu fiesta en Bembos Park y asegura un evento lleno de sabor y diversión",
+        "Reserva": "Proporciona la fecha de tu evento y la cantidad de personas que asistirán para agendar una reserva."
+    },
+    {
+        "Nombre": "Fiestas de Cumpleaños en Cineplanet",
+        "Sede": "Lince",
+        "Capacidad Maxima": 20,
+        "Descripción": "Celebra tu cumpleaños en Cineplanet y disfruta de una experiencia de película. Cineplanet, uno de los cines más reconocidos de Perú, te ofrece la oportunidad de vivir una fiesta única y emocionante.",
+        "Paquete Incluye": [
+            "Planificación personalizada del evento con nuestro Party Planner",
+            "Función privada de la película de tu elección",
+            "Sala decorada especialmente para tu fiesta",
+            "Proyección de un saludo especial en la pantalla del cine",
+            "Popcorn y bebidas para todos los invitados",
+            "Actividades y sorpresas durante la función"
+        ],
+        "Reserva": "Llama al 6194400 o escribe a planetfiesta@cineplanet.com.pe proporcionando la fecha de tu evento y la cantidad de personas que asistirán."
+    }
+]
+
 }
